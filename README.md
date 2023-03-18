@@ -1,17 +1,13 @@
-# sgp
+# AttendaGram
 
-A new Flutter project.
+A flutter application for taking attendance on different mobile Operating systems using cloud firestore database and firebase authentication.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+Proposed System is a flutter App which will mark and store attendance on mobile Phone itself.
+The scope of the project is iOS & Android application, and it will work for a particular institute/University.
+This system saves a great amount of time and reduces errors which may occur during attendance calculation. The system which i have developed is fully responsive which can be used in mobile and tablets.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Attendagram
