@@ -22,7 +22,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Installation
 
-Follow these steps to install and run the Cricbuzz Clone:
+Follow these steps to install and run the Attendagram:
 
 1. **Clone the repository:**
 
